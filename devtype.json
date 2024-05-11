@@ -1,0 +1,10 @@
+{
+  "MainDevType": 1,
+  "DevType": 3,
+  "SubDevEnum": 10,
+  "HardType": 2579,
+  "ParameterTable": 20,
+  "RtdbTable": 19,
+  "UseJson": 0,
+  "EnaPowOff": 1
+}

@@ -1,0 +1,54 @@
+{
+  "applianceName": "未命名",
+  "TotalYcCount": 2,
+  "TotalYxCount": 3,
+  "TotalYkCount": 0,
+  "TotalDDCount": 0,
+  "dataItem": [
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 0,
+      "type": 0,
+      "Name": "等待",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 1,
+      "type": 0,
+      "Name": "并网",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 2,
+      "type": 0,
+      "Name": "故障",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 3,
+      "type": 1,
+      "Name": "视在功率kVA",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    },
+    {
+      "linkNo": 5,
+      "devNo": 0,
+      "RegNo": 4,
+      "type": 1,
+      "Name": "功率限值",
+      "Ratio": 1.0,
+      "BoardDevAddr": 0
+    }
+  ]
+}

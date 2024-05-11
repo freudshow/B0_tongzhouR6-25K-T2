@@ -1,0 +1,146 @@
+{
+  "Pad": {
+    "Cmd03DataType": 1,
+    "Cmd03MaxDataNum": 50,
+    "Cmd01MaxDataNum": 10,
+    "Cmd05DataType": 0,
+    "Cmd10DataType": 0,
+    "CommunicationModle": 0,
+    "DevAddr": 2
+  },
+  "Para": [],
+  "YCDataItem": [
+    {
+      "No": 0,
+      "Name": "设备[1]-L1相电压-实时库号[250]",
+      "ShowAddr": "0",
+      "Addr": 16385,
+      "RegNum": 2,
+      "RealDevNo": 250
+    },
+    {
+      "No": 1,
+      "Name": "设备[1]- L2相电压-实时库号[248]",
+      "ShowAddr": "0",
+      "Addr": 16387,
+      "RegNum": 2,
+      "RealDevNo": 248
+    },
+    {
+      "No": 2,
+      "Name": "设备[1]-L3相电压-实时库号[246]",
+      "ShowAddr": "0",
+      "Addr": 16389,
+      "RegNum": 2,
+      "RealDevNo": 246
+    },
+    {
+      "No": 3,
+      "Name": "设备[1]-L1相电流-实时库号[251]",
+      "ShowAddr": "0",
+      "Addr": 16391,
+      "RegNum": 2,
+      "RealDevNo": 251
+    },
+    {
+      "No": 4,
+      "Name": "设备[1]-L2相电流-实时库号[249]",
+      "ShowAddr": "0",
+      "Addr": 16393,
+      "RegNum": 2,
+      "RealDevNo": 249
+    },
+    {
+      "No": 5,
+      "Name": "设备[1]- L3相电流-实时库号[247]",
+      "ShowAddr": "0",
+      "Addr": 16395,
+      "RegNum": 2,
+      "RealDevNo": 247
+    },
+    {
+      "No": 6,
+      "Name": "设备[1]-功率因数-实时库号[253]",
+      "ShowAddr": "0",
+      "Addr": 16397,
+      "RegNum": 2,
+      "RealDevNo": 253
+    },
+    {
+      "No": 7,
+      "Name": "设备[1]-总有功-实时库号[254]",
+      "ShowAddr": "0",
+      "Addr": 16399,
+      "RegNum": 2,
+      "RealDevNo": 254
+    },
+    {
+      "No": 8,
+      "Name": "设备[0]-视在功率-实时库号[262]",
+      "ShowAddr": "0",
+      "Addr": 16401,
+      "RegNum": 2,
+      "RealDevNo": 262
+    },
+    {
+      "No": 9,
+      "Name": "设备[1]-月发电量-实时库号[255]",
+      "ShowAddr": "0",
+      "Addr": 16403,
+      "RegNum": 2,
+      "RealDevNo": 255
+    },
+    {
+      "No": 10,
+      "Name": "设备[1]-年发电量-实时库号[256]",
+      "ShowAddr": "0",
+      "Addr": 16405,
+      "RegNum": 2,
+      "RealDevNo": 256
+    },
+    {
+      "No": 11,
+      "Name": "设备[1]-总发电量-实时库号[257]",
+      "ShowAddr": "0",
+      "Addr": 16407,
+      "RegNum": 2,
+      "RealDevNo": 257
+    },
+    {
+      "No": 12,
+      "Name": "设备[1]-日发电量-实时库号[258]",
+      "ShowAddr": "0",
+      "Addr": 16409,
+      "RegNum": 2,
+      "RealDevNo": 258
+    }
+  ],
+  "YXDataItem": [
+    {
+      "No": 0,
+      "Name": "设备[0]-等待-实时库号[259]",
+      "ShowAddr": "0",
+      "Addr": 1,
+      "RegNum": 1,
+      "RealDevNo": 259
+    },
+    {
+      "No": 1,
+      "Name": "设备[0]-并网-实时库号[260]",
+      "ShowAddr": "0",
+      "Addr": 2,
+      "RegNum": 1,
+      "RealDevNo": 260
+    },
+    {
+      "No": 2,
+      "Name": "设备[0]-故障-实时库号[261]",
+      "ShowAddr": "0",
+      "Addr": 3,
+      "RegNum": 1,
+      "RealDevNo": 261
+    }
+  ],
+  "YKDataItem": [],
+  "DDDataItem": []
+}
